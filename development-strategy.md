@@ -1,7 +1,7 @@
 ## Must-haves
 
 ### As an **owner** I want to find a job so that I can provide for my family.
-- [ ] Given 'Portfolio" page(menu).
+- [ ] Given 'Portfolio' page(menu).
 - [ ] Given short intro on the Home Page.
 
 ### As an **owner** I want to share message about situation in Turkey because I want a voice for political prisoners in Turkey.
