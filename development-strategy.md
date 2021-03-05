@@ -5,9 +5,9 @@
 - [ ] Given short intro on the Home Page.
 
 ### As an **owner** I want to share message about situation in Turkey because I want a voice for political prisoners in Turkey.
-- [ ] Given 'Heart for Turkey' page(menu).(any other name suggestion?)
+- [ ] Given 'My Heart with Turkey' page(menu).(any other name suggestion?)
 
-### As an **owner** I want visitor to write an e-mail so that they can offer me job, become my friend, hsare their feelings.
+### As an **owner** I want visitor to write an e-mail so that they can offer me job, become my friend, share their feelings.
 - [ ] Given 'Contact me' page(menu).
 
 ### As an **owner** I want to share HYF with people so that more people can join the community.
