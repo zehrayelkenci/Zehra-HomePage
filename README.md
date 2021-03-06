@@ -9,5 +9,5 @@ Practice User Interviews and Design Thinking by working in pairs to come up with
 
 - Live [demo]( https://zehrayelkenci.github.io/Zehra-HomePage/.)
 
-- HYF UI/UX design module [repository](https://github.com/zehrayelkenci/Zehra-HomePage). (Supposed to be forked by team members).
-- [Wireframe]( )
+- HYF UI/UX design module [repository](https://github.com/zehrayelkenci/Alina-homepage). (Supposed to be forked by team members).
+- [Wireframe]( https://github.com/zehrayelkenci/Alina-homepage/blob/main/public/img/alina-homepage%20.png)
